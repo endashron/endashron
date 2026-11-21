@@ -15,7 +15,7 @@
 - 🛒 Working on a **Retail & E-Commerce capstone** — real-time inventory, secure checkout, automated order processing
 - 🌐 Built **today / A little less ordinary**, a PHP/MySQL web app deployed on HelioHost
 - 🌱 Currently learning: _add what you're learning_
-- 📫 Reach me at: _your-email@example.com_
+- 📫 Reach me at: ronnievillegas320@gmail.com
 
 ---
 
